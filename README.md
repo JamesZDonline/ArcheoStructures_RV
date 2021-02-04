@@ -5,7 +5,7 @@ Chip classification of satellite imagery to identify archaeological structures u
 Update in Progress:
 
 
-##Project Goals
+## Project Goals
 
 ## Data Sources
 
@@ -19,6 +19,8 @@ Update in Progress:
 
 ### Researchers
 
-James Zimmer-Dauphinee, 4th Year Graduate Student: Anthropology
-
-Dr. Steve Wernke
+Contact: James Zimmer-Duaphinee (Anthropology
+[email](james.r.zimmer-dauphinee@vanderbilt.edu)  
+Faculty sponsor: Steven Wernke (Anthropology)
+[website](https://stevenwernke.com/)
+[email](s.wernke@vanderbilt.edu)
