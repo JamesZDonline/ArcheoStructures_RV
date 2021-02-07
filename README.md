@@ -3,6 +3,8 @@ This project uses convolutional neural networks (CNNs) to autonomously detect ar
 
 The project is situated in the western cordillera of the southern Peruvian Andes. This region is especially well-suited to survey from satellite imagery because the arid environment limits vegetation coverage that would otherwise obscure relevant features. The project focuses on archaeological sites with standing architectural remains visible in the imagery.  Relict buildings were primarily constructed from stone and therefore have maintained relatively good levels of preservation, making them readily visible in the imagery. However, because they are composed of the same materials as the background matrix (soil, rock), relict buildings are not spectrally distinct, making traditional remote sensing techniques ineffective. For this reason, we have trained a CNN to detect architectural features.
 
+Currently, the project is using a slightly modified version of the [Raster Vision](https://github.com/azavea/raster-vision)  library for the processing of the satellite imagery into image chips to supply the machine learning algorithms. This can easily be expanded on though alternative solutions are welcome. The backend for Raster Vision is PyTorch.
+
 ## Project Goals
 1. Build a model with at least 90% recall rate and 95% or more precision at identifying archeological structures.
 2. Build a model to classify the results of the previous model into one of a selection of categories (Corral, Settlement, Isolated Structure, Mixed Modern,...)
