@@ -49,11 +49,11 @@ A preliminary model has shown promising results, With a recall rate of ~80% and 
 ### Point of Contact:
 James Zimmer-Dauphinee (Anthropology)
 
-[email](james.r.zimmer-dauphinee@vanderbilt.edu)  
+[email](mailto:james.r.zimmer-dauphinee@vanderbilt.edu)  
 
 ### Faculty sponsor:
 Steven Wernke (Anthropology)
 
-[website](https://stevenwernke.com/)
+[website](mailto:https://stevenwernke.com/)
 
 [email](s.wernke@vanderbilt.edu)
